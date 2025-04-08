@@ -8,7 +8,7 @@ Git Log
 Git Add filename
 //Add file to stage environment
 
-Git Statu
+Git Status
 //to see status of commit
 
 Git branch
