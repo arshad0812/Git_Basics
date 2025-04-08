@@ -5,7 +5,7 @@ Git Basics
 Git Log
 //To see history of git pushes
 
-Git Add filenam
+Git Add filename
 //Add file to stage environment
 
 Git Statu
